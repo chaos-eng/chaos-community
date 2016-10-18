@@ -4,7 +4,10 @@ layout: default
 
 # Chaos Community
 
-Home of the Chaos Engineering community of practice. See the [Principles of Chaos Engineering][poc].
+Home of the Chaos Engineering community of practice.
+
+See the [Principles of Chaos Engineering][poc] for more information on Chaos
+Engineering.
 
 ## Chaos Community Day
 
