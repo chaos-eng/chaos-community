@@ -31,14 +31,14 @@ practitioners.
 
 ### North America
 
-* [Chaos Engineering Community (San Francisco Bay Area)](https://www.meetup.com/Chaos-Engineering-Community/)
-* [Chaos Engineering Raleigh RTP](https://www.meetup.com/Chaos-Engineering-Raleigh-RTP/)
+* [San Francisco Bay Area](https://www.meetup.com/Chaos-Engineering-Community/)
+* [Raleigh RTP](https://www.meetup.com/Chaos-Engineering-Raleigh-RTP/)
 
 
 ### Europe
 
-* [Chaos Engineering Hamburg](https://www.meetup.com/Chaos-Engineering-Hamburg/)
-* [Paris Chaos Engineering community](https://www.meetup.com/fr-FR/preview/Paris-Chaos-Engineering-Meetup)
+* [Hamburg](https://www.meetup.com/Chaos-Engineering-Hamburg/)
+* [Paris](https://www.meetup.com/fr-FR/preview/Paris-Chaos-Engineering-Meetup)
 
 
 [poc]: http://principlesofchaos.org
