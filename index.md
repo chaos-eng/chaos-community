@@ -38,7 +38,7 @@ practitioners.
 ### Europe
 
 * [Hamburg](https://www.meetup.com/Chaos-Engineering-Hamburg/)
-* [Paris](https://www.meetup.com/fr-FR/preview/Paris-Chaos-Engineering-Meetup)
+* [Paris](https://www.meetup.com/Paris-Chaos-Engineering-Meetup/)
 
 
 [poc]: http://principlesofchaos.org
